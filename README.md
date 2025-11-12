@@ -2,6 +2,7 @@
 
 [English](#english) | [Русский](#русский)
 
+![GUI interface](Img/01.png)
 ---
 
 <a name="english"></a>
